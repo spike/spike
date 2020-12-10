@@ -19,5 +19,5 @@ My Role: Sole developer.
 Tech Stack: Kotlin, ConstraintLayout, ViewBindings, onSaveInstance(), JUnit
 
 
-[More info](https://github.com/spike/calculator)  -    [Get it on Google Play](https://play.google.com/store/apps/details?id=com.calculator.calc)
-
+[More info](https://github.com/spike/calculator)  -    [Get it](https://play.google.com/store/apps/details?id=com.calculator.calc)
+ on Google Play
