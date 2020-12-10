@@ -8,7 +8,7 @@ My Role: Sole developer of the client Android application.
 
 Tech Stack: Kotlin, Android Architecture Components, Dummy API hosted on [Mocky.io](https://mocky.io/)
 
-[More info](https://github.com/spike/tanki) - Not yet on Google Play
+[See](https://github.com/spike/tanki) the code - Not yet on Google Play
 
 # Calculator
 
@@ -26,5 +26,5 @@ My Role: Sole developer.
 Tech Stack: ConstraintLayout, view binding, onSaveInstanceState(), JUnit
 
 
-[More info](https://github.com/spike/calculator)  -    [Get it](https://play.google.com/store/apps/details?id=com.calculator.calc)
+[See](https://github.com/spike/calculator) the code  -    [Get it](https://play.google.com/store/apps/details?id=com.calculator.calc)
  on Google Play
