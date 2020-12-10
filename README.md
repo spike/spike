@@ -23,7 +23,7 @@ This is a basic Android calculator made from scratch in Kotlin.
 
 My Role: Sole developer.  
 
-Tech Stack: Kotlin, ConstraintLayout, view binding, onSaveInstanceState(), JUnit
+Tech Stack: ConstraintLayout, view binding, onSaveInstanceState(), JUnit
 
 
 [More info](https://github.com/spike/calculator)  -    [Get it](https://play.google.com/store/apps/details?id=com.calculator.calc)
