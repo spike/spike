@@ -22,6 +22,6 @@ Tanki is a demo flashcard Android application built to demonstrate the best prac
 
 My Role: Sole developer of the client Android application. 
 
-Tech Stack: Kotlin, Android Architecture Components, Dummy API hosted on [Mocky.io](https://mocky.io/)
+Tech Stack: Kotlin, Android Architecture Components, Dummy API hosted on [Beeceptor](https://beeceptor.com/)
 
 [See](https://github.com/spike/tanki) the code - Not yet on Google Play
