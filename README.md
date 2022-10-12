@@ -1,4 +1,4 @@
-# My Android Jetpack Compose related Portfolio
+# My Android related Portfolio
 
 | Reader App | | Hair Salon App |
 | - | - | - |
