@@ -11,4 +11,6 @@
 
 <a href="https://github.com/spike/TimeTracker">Time Tracker App</a> repository
 
+<a href="https://github.com/spike/TemperatureControl">Temperature Control App</a> repository
+
 <a href="https://github.com/spike/CalculatorV2">Calculator</a> repository
