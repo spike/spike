@@ -20,4 +20,4 @@
 
 <a href="https://github.com/spike/CalculatorV2">Calculator</a> repository
 
-<a href="https://docs.google.com/document/d/19638-Sh49ahaZuSshDebn-WZMkiT7H2Je5WdkZPERoM/pub">Previous Competitions</a>
+Previous <a href="https://docs.google.com/document/d/19638-Sh49ahaZuSshDebn-WZMkiT7H2Je5WdkZPERoM/pub">Competitions</a>
