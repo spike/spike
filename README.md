@@ -6,8 +6,6 @@
 
 <a href="https://dev.to/stephanbranczyk/letter-creator-my-entry-for-the-google-gemini-competition-4pnh">Letter Creator</a> blog & Youtube video (Google Gemini competition - not open source)
 
-<a href="https://docs.google.com/document/d/19638-Sh49ahaZuSshDebn-WZMkiT7H2Je5WdkZPERoM/pub">Previous Competitions</a>
-
 | Reader App | | Hair Salon App |
 | - | - | - |
 |<a href="https://github.com/spike/Reader"><img src="https://github.com/spike/spike/blob/main/bookreaderv3.png" width="230"  title="Reading App"/></a>| |<a href="https://github.com/spike/Salon"><img src="https://github.com/spike/spike/blob/main/salon_app.png" width="230"  title="Salon App"/></a>|
@@ -21,3 +19,5 @@
 <a href="https://github.com/spike/TemperatureControl">Temperature Control App</a> repository
 
 <a href="https://github.com/spike/CalculatorV2">Calculator</a> repository
+
+<a href="https://docs.google.com/document/d/19638-Sh49ahaZuSshDebn-WZMkiT7H2Je5WdkZPERoM/pub">Previous Competitions</a>
