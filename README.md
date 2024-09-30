@@ -2,7 +2,7 @@
 
 | Letter Creator | |        |
 | - | - | - |
-|<a href="https://dev.to/stephanbranczyk/letter-creator-my-entry-for-the-google-gemini-competition-4pnh"><img src="https://media.dev.to/cdn-cgi/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftohgkpftqwjozouvlqnf.png" width="230"  title="Letter App"/></a>| |<a href="https://dev.to/stephanbranczyk/letter-creator-my-entry-for-the-google-gemini-competition-4pnh"><img src="https://media.dev.to/cdn-cgi/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0ni71s6yw018491zcz6c.png" width="230"  title="Letter app"/></a>|
+|<img src="https://github.com/spike/spike/blob/main/screenshot_start_letter.png" width="230"  title="Letter App"/></a>| |<a href="https://dev.to/stephanbranczyk/letter-creator-my-entry-for-the-google-gemini-competition-4pnh"><img src="https://github.com/spike/spike/blob/main/screenshot_second_letter.png" width="230"  title="Letter app"/></a>|
 
 <a href="https://dev.to/stephanbranczyk/letter-creator-my-entry-for-the-google-gemini-competition-4pnh">Letter Creator</a> blog & Youtube video (Google Gemini competition - not open source)
 
