@@ -2,7 +2,7 @@
 
 | Letter Creator | |        | |        |
 | - | - | - | - | - |
-|<img src="https://github.com/spike/spike/blob/main/screenshot_start_letter.png" width="230"  title="Letter App"/></a>| |<a href="https://dev.to/stephanbranczyk/letter-creator-my-entry-for-the-google-gemini-competition-4pnh"><img src="https://github.com/spike/spike/blob/main/screenshot_second_letter.png" width="230"  title="Letter app"/></a>| |<a href="https://dev.to/stephanbranczyk/letter-creator-my-entry-for-the-google-gemini-competition-4pnh"><img src="https://github.com/spike/spike/blob/main/screenshot_second_letter.png" width="230"  title="Letter app"/></a>|
+|<img src="https://github.com/spike/spike/blob/main/screenshot_start_letter.png" width="230"  title="Letter App"/></a>| |<a href="https://dev.to/stephanbranczyk/letter-creator-my-entry-for-the-google-gemini-competition-4pnh"><img src="https://github.com/spike/spike/blob/main/screenshot_second_letter.png" width="230"  title="Letter app"/></a>| |<a href="https://dev.to/stephanbranczyk/letter-creator-my-entry-for-the-google-gemini-competition-4pnh"><img src="https://github.com/spike/spike/blob/main/screenshot_end_letter.png" width="230"  title="Letter app"/></a>|
 
 <a href="https://dev.to/stephanbranczyk/letter-creator-my-entry-for-the-google-gemini-competition-4pnh">Letter Creator</a> blog & Youtube video (Google Gemini competition - not open source)
 
