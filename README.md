@@ -20,4 +20,9 @@
 
 <a href="https://github.com/spike/CalculatorV2">Calculator</a> repository
 
-Previous <a href="https://docs.google.com/document/d/19638-Sh49ahaZuSshDebn-WZMkiT7H2Je5WdkZPERoM/pub">Competitions</a>
+Previous <a href="https://docs.google.com/document/d/19638-Sh49ahaZuSshDebn-WZMkiT7H2Je5WdkZPERoM/pub">competitions</a>
+
+Personal Youtube Channel: <a href="https://www.youtube.com/@RustyAndroid">@Rusty Android</a> 
+(on Android mobile development and Rust backend development)
+
+Resources I've <a href="https://github.com/spike/CompetitiveProgramming/tree/master/resources">cobbled together</a> for competitive programming.
