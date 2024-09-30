@@ -25,4 +25,4 @@ Previous <a href="https://docs.google.com/document/d/19638-Sh49ahaZuSshDebn-WZMk
 Personal Youtube Channel: <a href="https://www.youtube.com/@RustyAndroid">@Rusty Android</a> 
 (on Android mobile development and Rust backend development)
 
-Resources I've <a href="https://github.com/spike/CompetitiveProgramming/tree/master/resources">cobbled together</a> for competitive programming.
+Some of my <a href="https://github.com/spike/CompetitiveProgramming/tree/master/resources">evergreen notes</a> for competitive programming.
