@@ -6,6 +6,13 @@
 
 <a href="https://dev.to/stephanbranczyk/letter-creator-my-entry-for-the-google-gemini-competition-4pnh">Letter Creator</a> blog & Youtube video (Google Gemini competition - not open source)
 
+| Habit Hub | |        | |        |
+| - | - | - | - | - |
+|<a href="https://github.com/spike/HabitHub"><img src="https://github.com/spike/spike/blob/main/HabitHub0.png" width="230"  title="Habit Hub"/></a>| |<a href="https://github.com/spike/HabitHub"><img src="https://github.com/spike/spike/blob/main/HabitHub2.png" width="230"  title="Habit Hub" /></a>| |<a href="https://github.com/spike/HabitHub"><img src="https://github.com/spike/spike/blob/main/HabitHub3.png" width="230"  title="Habit Hub" /></a>|
+|<a href="https://github.com/spike/HabitHub"><img src="https://github.com/spike/spike/blob/main/HabitHub4.png" width="230"  title="Habit Hub" /></a>| |<a href="https://github.com/spike/HabitHub"><img src="https://github.com/spike/spike/blob/main/HabitHub5.png" width="230"  title="Habit Hub" /></a>|
+
+<a href="https://github.com/spike/HabitHub">Habit Hub</a> repository
+
 | Reader App | | Hair Salon App |
 | - | - | - |
 |<a href="https://github.com/spike/Reader"><img src="https://github.com/spike/spike/blob/main/bookreaderv3.png" width="230"  title="Reading App"/></a>| |<a href="https://github.com/spike/Salon"><img src="https://github.com/spike/spike/blob/main/salon_app.png" width="230"  title="Salon App"/></a>|
