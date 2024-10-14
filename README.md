@@ -21,6 +21,8 @@
 
 <a href="https://github.com/spike/Salon">Hair Salon App</a> repository
 
+<a href="https://github.com/spike/QuizChatServer">Quiz Chat Server</a>
+
 <a href="https://github.com/spike/TimeTracker">Time Tracker App</a> repository
 
 <a href="https://github.com/spike/TemperatureControl">Temperature Control App</a> repository
