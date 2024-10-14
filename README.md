@@ -1,4 +1,4 @@
-# My Android and my Rust Programming Portfolio
+# My Android and my Rust Portfolio
 
 | Letter Creator | |        | |        |
 | - | - | - | - | - |
