@@ -21,7 +21,7 @@
 
 <a href="https://github.com/spike/Salon">Hair Salon App</a> repository
 
-<a href="https://github.com/spike/QuizChatServer">Quiz Chat Server</a>
+<a href="https://github.com/spike/QuizChatServer">Quiz Chat Server</a> repository. Quiz Chat Server <a href="https://quiz-chat-sparkling-wildflower-5475.fly.dev/">demo site</a>.
 
 <a href="https://github.com/spike/TimeTracker">Time Tracker App</a> repository
 
