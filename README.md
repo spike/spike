@@ -20,6 +20,9 @@
 <a href="https://github.com/spike/Reader">Reader App</a> repository
 
 <a href="https://github.com/spike/Salon">Hair Salon App</a> repository
+| Quiz Chat Server written in Rust|
+| - |
+|<a href="https://github.com/spike/QuizChatServer"><img src="https://github.com/spike/spike/blob/main/ScreenshotQuizChatServer.png" width="600"  title="Habit Hub" /></a>|
 
 <a href="https://github.com/spike/QuizChatServer">Quiz Chat Server</a> repository. Quiz Chat Server <a href="https://quiz-chat-sparkling-wildflower-5475.fly.dev/">demo site</a>.
 
