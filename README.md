@@ -34,7 +34,7 @@
 
 Previous <a href="https://docs.google.com/document/d/19638-Sh49ahaZuSshDebn-WZMkiT7H2Je5WdkZPERoM/pub">competitions</a>
 
-Personal Youtube Channel: <a href="https://www.youtube.com/@RustyAndroid">@Rusty Android</a> 
+Personal Youtube Channel: <a href="https://www.youtube.com/@NoSharedMemory">@No Shared Memory</a> 
 (on Android mobile development and Rust backend development)
 
 Some of my <a href="https://github.com/spike/CompetitiveProgramming/tree/master/resources">evergreen notes</a> on data structures and algorithms.
